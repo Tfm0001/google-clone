@@ -1,0 +1,50 @@
+.btn-wrapper{
+   display:flex;
+   justify-content: center;
+   margin-left: 4px;
+   margin-right: 4px;
+   margin
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+input{
+    display:block;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+    
+
+.btn{
+    
+
+    margin-top: 20px;
+
+    background-color: #aec2eb;
+
+    border-radius: 20px;
+    border: black;
+    
+     font-size:medium;
+}
+
+.card{
+    color: rgba(17, 16, 16, 0.829);
+    background: lightblue;
+    width : 300px;
+    margin-left:auto;
+    margin-right: auto;
+
+    border: 3px soldid orangered;
+    border-radius: 40px;
+
+    padding: 50px;
+
+    font-weight: bold;
+}
